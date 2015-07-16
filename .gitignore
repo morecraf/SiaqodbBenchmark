@@ -182,6 +182,4 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
-!libs/CryptonorClient.dll
-!CryptonorVSCouchbaseLite/lmdb32.dll
-!CryptonorVSCouchbaseLite/lmdb64.dll
+!sqlite3.dll
